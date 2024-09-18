@@ -1,2 +1,1 @@
-# crypto
-crypto currency
+# Blockchain cryptocurrency application using python
